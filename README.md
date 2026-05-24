@@ -121,9 +121,9 @@ Leading technical initiatives, organizing security-focused activities, mentoring
 
 ## 📫 Connect With Me
 
-* GitHub: Add your GitHub profile link here
-* LinkedIn: Add your LinkedIn link here
-* Portfolio/Website: Add your website here
+* GitHub: [Click here](https://github.com/kamalkoushikd)
+* LinkedIn: 
+* Portfolio/Website: [Website](https://kamalkoushikd.me)
 
 ---
 
